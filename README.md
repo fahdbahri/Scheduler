@@ -1,4 +1,4 @@
-# CPU-scheduling
+# Scheduler
 
 Project Overview:
 
